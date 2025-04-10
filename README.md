@@ -1,1 +1,1 @@
-# J1887CyTOF
+# This R script accompanies the FCS files of mass cytometry (CyTOF) profiling for "Phase 1/2 trial of copanlisib in combination with nivolumab for microsatellite stable colorectal cancer" by Christenson ES et al. available on 10.5281/zenodo.14625342.
