@@ -11,6 +11,7 @@ This repository contains the **R script** used to analyze **mass cytometry (CyTO
 - R script for preprocessing, visualization, and generating proportion files for downstream analysis
 - Directory placeholder for raw `.fcs` files (not included; available at Zenodo link above)
 - Metadata, merged, and panel files to place them in a `/Config` folder
+- Results of clustering visualized by heatmap of expression profiles (unannotated and annotated) based on `merged.csv`
 
 ## Data Access
 
